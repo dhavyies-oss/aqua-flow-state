@@ -1,0 +1,16 @@
+{
+  "short_name": "Hydrate",
+  "name": "Hydrate - Water Reminder",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/fa0c5d8a-5cec-4b83-9f2d-6199e5a5510c/app-icon-de3cf053-1777577376076.webp",
+      "type": "image/webp",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06b6d4",
+  "background_color": "#f8fafc"
+}
